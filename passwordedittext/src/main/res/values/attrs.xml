@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PasswordEditText">
+        <attr name="password_length" format="integer"/>
+        <attr name="cursor_flash_time" format="integer"/>
+        <attr name="border_width" format="dimension"/>
+        <attr name="border_color" format="color"/>
+        <attr name="cursor_color" format="color"/>
+        <attr name="isCursorEnable" format="boolean"/>
+        <attr name="password_padding" format="dimension"/>
+        <attr name="cipherEnable" format="boolean"/>
+    </declare-styleable>
+</resources>
